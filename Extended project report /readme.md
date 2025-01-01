@@ -46,56 +46,18 @@ Experimental results demonstrate that the algorithm significantly enhances low i
 ## **Ghent Chart for Extended Project PROJ3999:**  
 # **Project Timeline**
 
-## **Consent Form Submission**  
-- **Dates:** 13 Aug – 21 Aug  
-- **Duration:** 7 Days  
+| **Task**                 | **Start Date** | **End Date** | **Duration** |
+|--------------------------|----------------|--------------|--------------|
+| Consent Form Submission  | 13 Aug         | 21 Aug       | 7 Days       |
+| Project Selection        | 2 Aug          | 13 Aug       | 8 Days       |
+| Batch Preparation        | 31 Jul         | 2 Aug        | 3 Days       |
+| Literature Survey        | 29 Aug         | 29 Aug       | 1 Day        |
+| Abstract                 | 21 Aug         | 29 Aug       | 7 Days       |
+| Code Development         | 6 Sep          | 25 Sep       | 14 Days      |
+| Prepared PPT             | 25 Sep         | 27 Sep       | 2 Days       |
+| Prepared Poster          | 27 Sep         | 2 Oct        | 4 Days       |
+| Extended Consent Form    | 2 Oct          | 10 Oct       | 7 Days       |
 
----
-
-## **Project Selection**  
-- **Dates:** 2 Aug – 13 Aug  
-- **Duration:** 8 Days  
-
----
-
-## **Batch Preparation**  
-- **Dates:** 31 Jul – 2 Aug  
-- **Duration:** 3 Days  
-
----
-
-## **Literature Survey**  
-- **Date:** 29 Aug  
-
----
-
-## **Abstract**  
-- **Dates:** 21 Aug – 29 Aug  
-- **Duration:** 7 Days  
-
----
-
-## **Code Development**  
-- **Dates:** 6 Sep – 25 Sep  
-- **Duration:** 14 Days  
-
----
-
-## **Prepared PPT**  
-- **Dates:** 25 Sep – 27 Sep  
-- **Duration:** 2 Days  
-
----
-
-## **Prepared Poster**  
-- **Dates:** 27 Sep – 2 Oct  
-- **Duration:** 4 Days  
-
----
-
-## **Extended Consent Form**  
-- **Dates:** 2 Oct – 10 Oct  
-- **Duration:** 7 Days  
   
 
 ---
